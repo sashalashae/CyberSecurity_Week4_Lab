@@ -32,7 +32,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-   I have been stuck on Challenge 3 for three days.  I have been unsuccessful at completing the challenge.  I looked at the hint and when I look at the cookie values before and after the change.  They remain the same and do not change.  The only change I see is the userPassWord to newPassword.  I tried manipulating those values, but still no success.
+   I have been stuck on Challenge 3 for three days.  I have been unsuccessful at completing the challenge.  I looked at the hint and when I look at the cookie values before and after the change.  They remain the same and do not change.  The only change I see is the userPassWord to newPassword.  I tried manipulating those values, but still no success.  After consulting my fellow TAs, I restarted my browser, so I was able to see the current and checksum cookies values.
 
 ## License
 
