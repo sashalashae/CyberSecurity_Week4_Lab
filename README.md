@@ -11,7 +11,7 @@ The following **required** functionality is completed:
 1. [X]  Required: Challenge 0 - Broken Session Management
 1. [X]  Required: Challenge 1 - Broken Session Management 1
 1. [X]  Required: Challenge 2 - Broken Session Management 2
-1. []  Required: Challenge 3 - Broken Session Management 3
+1. [X]  Required: Challenge 3 - Broken Session Management 3
 1. [X]  Required: Challenge 4 - Cross Site Request Forgery 
 1. [X]  Required: Challenge 4 - Cross Site Request Forgery 1
 
@@ -27,7 +27,7 @@ The following advanced user stories are optional:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/qNN2CXs.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/XTNu8mt.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
